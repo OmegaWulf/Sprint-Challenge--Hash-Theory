@@ -74,5 +74,5 @@ A     B     C      carry   sum
 1     1     1        1      1
 ```
 * SUM = (if 1 digit) the int value (2+ digits) 0  
-* CARRY = the remainder
+* CARRY = the remainder after sum
 
