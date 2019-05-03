@@ -73,6 +73,6 @@ A     B     C      carry   sum
 1     1     0        1      0
 1     1     1        1      1
 ```
-* SUM = (if 1 digit) the int value (2+ digits) 0  
-* CARRY = the remainder after sum
+* SUM = XOR (equal input = 0, nonequal = 1)
+* CARRY = AND (1 and 1 = 1. Anything else is 0.)
 
